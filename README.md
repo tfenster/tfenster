@@ -6,7 +6,7 @@
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![tfenster's github stats](https://github-readme-stats.vercel.app/api?username=tfenster&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfenster&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![tfenster's github stats](https://github-readme-stats.vercel.app/api?username=tfenster&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfenster&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![tfenster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tfenster)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## How to reach me:
